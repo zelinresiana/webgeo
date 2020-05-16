@@ -1,0 +1,1565 @@
+{
+  "type" : "FeatureCollection", 
+  "features" : [
+    {
+      "type" : "Feature", 
+      "id" : 68, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.667892899937, -7.93863561194388
+        ]
+      }, 
+      "properties" : {
+        "FID" : 68, 
+        "kecamatan" : "KARANGMOJO", 
+        "kabupaten" : "GUNUNGKIDUL", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.938635612, 
+        "lon" : 110.6678929, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 69, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.364249299965, -7.7828152458269
+        ]
+      }, 
+      "properties" : {
+        "FID" : 69, 
+        "kecamatan" : "JETIS", 
+        "kabupaten" : "KOTA YOGYAKARTA", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.782815246, 
+        "lon" : 110.3642493, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 70, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.398733400026, -7.81873015197488
+        ]
+      }, 
+      "properties" : {
+        "FID" : 70, 
+        "kecamatan" : "KOTAGEDE", 
+        "kabupaten" : "KOTA YOGYAKARTA", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.818730152, 
+        "lon" : 110.3987334, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 73, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.367144699668, -7.80188037767726
+        ]
+      }, 
+      "properties" : {
+        "FID" : 73, 
+        "kecamatan" : "GONDOMANAN", 
+        "kabupaten" : "KOTA YOGYAKARTA", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.801880378, 
+        "lon" : 110.3671447, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 75, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.462520600445, -7.84328709822097
+        ]
+      }, 
+      "properties" : {
+        "FID" : 75, 
+        "kecamatan" : "PIYUNGAN", 
+        "kabupaten" : "BANTUL", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.843287098, 
+        "lon" : 110.4625206, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 82, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.258638099868, -7.82359820739129
+        ]
+      }, 
+      "properties" : {
+        "FID" : 82, 
+        "kecamatan" : "SEDAYU", 
+        "kabupaten" : "BANTUL", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.823598207, 
+        "lon" : 110.2586381, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 89, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.265629999625, -7.98081690597536
+        ]
+      }, 
+      "properties" : {
+        "FID" : 89, 
+        "kecamatan" : "SANDEN", 
+        "kabupaten" : "BANTUL", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.980816906, 
+        "lon" : 110.26563, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 95, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.357893600409, -7.80090620775525
+        ]
+      }, 
+      "properties" : {
+        "FID" : 95, 
+        "kecamatan" : "NGAMPILAN", 
+        "kabupaten" : "KOTA YOGYAKARTA", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.800906208, 
+        "lon" : 110.3578936, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 104, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.414195999746, -7.8768504831632
+        ]
+      }, 
+      "properties" : {
+        "FID" : 104, 
+        "kecamatan" : "PLERET", 
+        "kabupaten" : "BANTUL", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.876850483, 
+        "lon" : 110.414196, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 115, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.50469360003, -7.79739364919749
+        ]
+      }, 
+      "properties" : {
+        "FID" : 115, 
+        "kecamatan" : "PRAMBANAN", 
+        "kabupaten" : "SLEMAN", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.797393649, 
+        "lon" : 110.5046936, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 128, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.155435500048, -7.83117695075561
+        ]
+      }, 
+      "properties" : {
+        "FID" : 128, 
+        "kecamatan" : "PENGASIH", 
+        "kabupaten" : "KULON PROGO", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.831176951, 
+        "lon" : 110.1554355, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 155, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.399386799761, -7.71196716135535
+        ]
+      }, 
+      "properties" : {
+        "FID" : 155, 
+        "kecamatan" : "NGAGLIK", 
+        "kabupaten" : "SLEMAN", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.711967161, 
+        "lon" : 110.3993868, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 161, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.247847899961, -7.77739984592608
+        ]
+      }, 
+      "properties" : {
+        "FID" : 161, 
+        "kecamatan" : "MOYUDAN", 
+        "kabupaten" : "SLEMAN", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.777399846, 
+        "lon" : 110.2478479, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 190, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.332943799717, -7.89551330869222
+        ]
+      }, 
+      "properties" : {
+        "FID" : 190, 
+        "kecamatan" : "BANTUL", 
+        "kabupaten" : "BANTUL", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.895513309, 
+        "lon" : 110.3329438, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 197, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.313482799791, -7.94432700208944
+        ]
+      }, 
+      "properties" : {
+        "FID" : 197, 
+        "kecamatan" : "BAMBANGLIPURO", 
+        "kabupaten" : "BANTUL", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.944327002, 
+        "lon" : 110.3134828, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 202, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.463992599979, -7.74688453229527
+        ]
+      }, 
+      "properties" : {
+        "FID" : 202, 
+        "kecamatan" : "KALASAN", 
+        "kabupaten" : "SLEMAN", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.746884532, 
+        "lon" : 110.4639926, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 204, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.320816000358, -7.78967901107745
+        ]
+      }, 
+      "properties" : {
+        "FID" : 204, 
+        "kecamatan" : "GAMPING", 
+        "kabupaten" : "SLEMAN", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.789679011, 
+        "lon" : 110.320816, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 210, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.359065099575, -7.818834676579
+        ]
+      }, 
+      "properties" : {
+        "FID" : 210, 
+        "kecamatan" : "MANTRIJERON", 
+        "kabupaten" : "KOTA YOGYAKARTA", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.818834677, 
+        "lon" : 110.3590651, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 220, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.323520400246, -7.82921833255995
+        ]
+      }, 
+      "properties" : {
+        "FID" : 220, 
+        "kecamatan" : "KASIHAN", 
+        "kabupaten" : "BANTUL", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.829218333, 
+        "lon" : 110.3235204, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 232, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.372254699695, -7.79302864035941
+        ]
+      }, 
+      "properties" : {
+        "FID" : 232, 
+        "kecamatan" : "DANUREJAN", 
+        "kabupaten" : "KOTA YOGYAKARTA", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.79302864, 
+        "lon" : 110.3722547, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 269, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.342108199834, -7.96985670362392
+        ]
+      }, 
+      "properties" : {
+        "FID" : 269, 
+        "kecamatan" : "PUNDONG", 
+        "kabupaten" : "BANTUL", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.969856704, 
+        "lon" : 110.3421082, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 307, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.590828500035, -7.97710014015928
+        ]
+      }, 
+      "properties" : {
+        "FID" : 307, 
+        "kecamatan" : "WONOSARI", 
+        "kabupaten" : "GUNUNGKIDUL", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.97710014, 
+        "lon" : 110.5908285, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 315, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.418483700163, -7.62038296779969
+        ]
+      }, 
+      "properties" : {
+        "FID" : 315, 
+        "kecamatan" : "PAKEM", 
+        "kabupaten" : "SLEMAN", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.620382968, 
+        "lon" : 110.4184837, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 363, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.41033909977, -7.76612286457851
+        ]
+      }, 
+      "properties" : {
+        "FID" : 363, 
+        "kecamatan" : "DEPOK", 
+        "kabupaten" : "SLEMAN", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.766122865, 
+        "lon" : 110.4103391, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 374, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.349330600327, -7.69342949357622
+        ]
+      }, 
+      "properties" : {
+        "FID" : 374, 
+        "kecamatan" : "SLEMAN", 
+        "kabupaten" : "SLEMAN", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.693429494, 
+        "lon" : 110.3493306, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 394, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.366269000114, -7.90996058371394
+        ]
+      }, 
+      "properties" : {
+        "FID" : 394, 
+        "kecamatan" : "JETIS", 
+        "kabupaten" : "BANTUL", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.909960584, 
+        "lon" : 110.366269, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 398, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.449322599758, -7.80696676600343
+        ]
+      }, 
+      "properties" : {
+        "FID" : 398, 
+        "kecamatan" : "BERBAH", 
+        "kabupaten" : "SLEMAN", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.806966766, 
+        "lon" : 110.4493226, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 404, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.287830499978, -7.92495407726881
+        ]
+      }, 
+      "properties" : {
+        "FID" : 404, 
+        "kecamatan" : "PANDAK", 
+        "kabupaten" : "BANTUL", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.924954077, 
+        "lon" : 110.2878305, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 414, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.381732699704, -7.78624273661296
+        ]
+      }, 
+      "properties" : {
+        "FID" : 414, 
+        "kecamatan" : "GONDOKUSUMAN", 
+        "kabupaten" : "KOTA YOGYAKARTA", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.786242737, 
+        "lon" : 110.3817327, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 415, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.345832599995, -7.73904687861051
+        ]
+      }, 
+      "properties" : {
+        "FID" : 415, 
+        "kecamatan" : "MLATI", 
+        "kabupaten" : "SLEMAN", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.739046879, 
+        "lon" : 110.3458326, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 416, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.373609600303, -7.81361309496833
+        ]
+      }, 
+      "properties" : {
+        "FID" : 416, 
+        "kecamatan" : "MERGANGSAN", 
+        "kabupaten" : "KOTA YOGYAKARTA", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.813613095, 
+        "lon" : 110.3736096, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 417, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.362727700123, -7.80909177226744
+        ]
+      }, 
+      "properties" : {
+        "FID" : 417, 
+        "kecamatan" : "KRATON", 
+        "kabupaten" : "KOTA YOGYAKARTA", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.809091772, 
+        "lon" : 110.3627277, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 419, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.443808500162, -7.70702709992065
+        ]
+      }, 
+      "properties" : {
+        "FID" : 419, 
+        "kecamatan" : "NGEMPLAK", 
+        "kabupaten" : "SLEMAN", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.7070271, 
+        "lon" : 110.4438085, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 421, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.295551800275, -7.76806332456272
+        ]
+      }, 
+      "properties" : {
+        "FID" : 421, 
+        "kecamatan" : "GODEAN", 
+        "kabupaten" : "SLEMAN", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.768063325, 
+        "lon" : 110.2955518, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 424, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.387057799578, -7.8140958654318
+        ]
+      }, 
+      "properties" : {
+        "FID" : 424, 
+        "kecamatan" : "UMBULHARJO", 
+        "kabupaten" : "KOTA YOGYAKARTA", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.814095865, 
+        "lon" : 110.3870578, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 426, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.240479499929, -7.96223184122647
+        ]
+      }, 
+      "properties" : {
+        "FID" : 426, 
+        "kecamatan" : "SRANDAKAN", 
+        "kabupaten" : "BANTUL", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.962231841, 
+        "lon" : 110.2404795, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 429, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.450419599985, -7.63233397213509
+        ]
+      }, 
+      "properties" : {
+        "FID" : 429, 
+        "kecamatan" : "CANGKRINGAN", 
+        "kabupaten" : "SLEMAN", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.632333972, 
+        "lon" : 110.4504196, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 432, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.356956999666, -7.85744818378663
+        ]
+      }, 
+      "properties" : {
+        "FID" : 432, 
+        "kecamatan" : "SEWON", 
+        "kabupaten" : "BANTUL", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.857448184, 
+        "lon" : 110.356957, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 435, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.361137900194, -7.791977456994
+        ]
+      }, 
+      "properties" : {
+        "FID" : 435, 
+        "kecamatan" : "GEDONGTENGEN", 
+        "kabupaten" : "KOTA YOGYAKARTA", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.791977457, 
+        "lon" : 110.3611379, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 436, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.305176899694, -7.99513050756684
+        ]
+      }, 
+      "properties" : {
+        "FID" : 436, 
+        "kecamatan" : "KRETEK", 
+        "kabupaten" : "BANTUL", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.995130508, 
+        "lon" : 110.3051769, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 438, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.350444600438, -7.80325486462027
+        ]
+      }, 
+      "properties" : {
+        "FID" : 438, 
+        "kecamatan" : "WIROBRAJAN", 
+        "kabupaten" : "KOTA YOGYAKARTA", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.803254865, 
+        "lon" : 110.3504446, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 439, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.357004800431, -7.7785458915796
+        ]
+      }, 
+      "properties" : {
+        "FID" : 439, 
+        "kecamatan" : "TEGALREJO", 
+        "kabupaten" : "KOTA YOGYAKARTA", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.778545892, 
+        "lon" : 110.3570048, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 445, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.318044600078, -7.66578353797985
+        ]
+      }, 
+      "properties" : {
+        "FID" : 445, 
+        "kecamatan" : "TEMPEL", 
+        "kabupaten" : "SLEMAN", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.665783538, 
+        "lon" : 110.3180446, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 448, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.397151100443, -7.93874063836972
+        ]
+      }, 
+      "properties" : {
+        "FID" : 448, 
+        "kecamatan" : "IMOGIRI", 
+        "kabupaten" : "BANTUL", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.938740638, 
+        "lon" : 110.3971511, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 450, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.730109599878, -7.97180323313268
+        ]
+      }, 
+      "properties" : {
+        "FID" : 450, 
+        "kecamatan" : "PONJONG", 
+        "kabupaten" : "GUNUNGKIDUL", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.971803233, 
+        "lon" : 110.7301096, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 452, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.407619600264, -7.82979052711107
+        ]
+      }, 
+      "properties" : {
+        "FID" : 452, 
+        "kecamatan" : "BANGUNTAPAN", 
+        "kabupaten" : "BANTUL", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.829790527, 
+        "lon" : 110.4076196, 
+        "kategori" : "high"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 810, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.744665200039, -8.08709584100023
+        ]
+      }, 
+      "properties" : {
+        "FID" : 810, 
+        "kecamatan" : "RONGKOP", 
+        "kabupaten" : "GUNUNGKIDUL", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -8.087095841, 
+        "lon" : 110.7446652, 
+        "kategori" : "medium"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 910, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.072085800419, -7.8899696960446
+        ]
+      }, 
+      "properties" : {
+        "FID" : 910, 
+        "kecamatan" : "TEMON", 
+        "kabupaten" : "KULON PROGO", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.889969696, 
+        "lon" : 110.0720858, 
+        "kategori" : "medium"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 918, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.589851099749, -8.09195704807928
+        ]
+      }, 
+      "properties" : {
+        "FID" : 918, 
+        "kecamatan" : "TANJUNGSARI", 
+        "kabupaten" : "GUNUNGKIDUL", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -8.091957048, 
+        "lon" : 110.5898511, 
+        "kategori" : "medium"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 975, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.757480299976, -8.16674490865057
+        ]
+      }, 
+      "properties" : {
+        "FID" : 975, 
+        "kecamatan" : "GIRISUBO", 
+        "kabupaten" : "GUNUNGKIDUL", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -8.166744909, 
+        "lon" : 110.7574803, 
+        "kategori" : "medium"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 992, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.6564285997, -8.12133300881123
+        ]
+      }, 
+      "properties" : {
+        "FID" : 992, 
+        "kecamatan" : "TEPUS", 
+        "kabupaten" : "GUNUNGKIDUL", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -8.121333009, 
+        "lon" : 110.6564286, 
+        "kategori" : "medium"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 1032, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.691643700197, -7.83107287221526
+        ]
+      }, 
+      "properties" : {
+        "FID" : 1032, 
+        "kecamatan" : "NGAWEN", 
+        "kabupaten" : "GUNUNGKIDUL", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.831072872, 
+        "lon" : 110.6916437, 
+        "kategori" : "medium"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 1039, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.522500199924, -7.94081006473266
+        ]
+      }, 
+      "properties" : {
+        "FID" : 1039, 
+        "kecamatan" : "PLAYEN", 
+        "kabupaten" : "GUNUNGKIDUL", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.940810065, 
+        "lon" : 110.5225002, 
+        "kategori" : "medium"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 1041, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.524783000335, -7.86152461366993
+        ]
+      }, 
+      "properties" : {
+        "FID" : 1041, 
+        "kecamatan" : "PATUK", 
+        "kabupaten" : "GUNUNGKIDUL", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.861524614, 
+        "lon" : 110.524783, 
+        "kategori" : "medium"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 1042, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.440089000407, -8.03092340808877
+        ]
+      }, 
+      "properties" : {
+        "FID" : 1042, 
+        "kecamatan" : "PANGGANG", 
+        "kabupaten" : "GUNUNGKIDUL", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -8.030923408, 
+        "lon" : 110.440089, 
+        "kategori" : "medium"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 1048, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.376432699909, -8.02496928910136
+        ]
+      }, 
+      "properties" : {
+        "FID" : 1048, 
+        "kecamatan" : "PURWOSARI", 
+        "kabupaten" : "GUNUNGKIDUL", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -8.024969289, 
+        "lon" : 110.3764327, 
+        "kategori" : "medium"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 1049, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.219899800036, -7.8597095587491
+        ]
+      }, 
+      "properties" : {
+        "FID" : 1049, 
+        "kecamatan" : "SENTOLO", 
+        "kabupaten" : "KULON PROGO", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.859709559, 
+        "lon" : 110.2198998, 
+        "kategori" : "medium"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 1069, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.201187799577, -7.78716836203023
+        ]
+      }, 
+      "properties" : {
+        "FID" : 1069, 
+        "kecamatan" : "NANGGULAN", 
+        "kabupaten" : "KULON PROGO", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.787168362, 
+        "lon" : 110.2011878, 
+        "kategori" : "medium"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 1077, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.657190199568, -8.03231816395208
+        ]
+      }, 
+      "properties" : {
+        "FID" : 1077, 
+        "kecamatan" : "SEMANU", 
+        "kabupaten" : "GUNUNGKIDUL", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -8.032318164, 
+        "lon" : 110.6571902, 
+        "kategori" : "medium"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 1142, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.633400500033, -7.87459070899399
+        ]
+      }, 
+      "properties" : {
+        "FID" : 1142, 
+        "kecamatan" : "NGLIPAR", 
+        "kabupaten" : "GUNUNGKIDUL", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.874590709, 
+        "lon" : 110.6334005, 
+        "kategori" : "medium"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 1217, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.095866799913, -7.83085051573869
+        ]
+      }, 
+      "properties" : {
+        "FID" : 1217, 
+        "kecamatan" : "KOKAP", 
+        "kabupaten" : "KULON PROGO", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.830850516, 
+        "lon" : 110.0958668, 
+        "kategori" : "medium"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 1223, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.159287799992, -7.75181059398369
+        ]
+      }, 
+      "properties" : {
+        "FID" : 1223, 
+        "kecamatan" : "GIRIMULYO", 
+        "kabupaten" : "KULON PROGO", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.751810594, 
+        "lon" : 110.1592878, 
+        "kategori" : "medium"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 1241, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.201670999917, -7.95287141228579
+        ]
+      }, 
+      "properties" : {
+        "FID" : 1241, 
+        "kecamatan" : "GALUR", 
+        "kabupaten" : "KULON PROGO", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.952871412, 
+        "lon" : 110.201671, 
+        "kategori" : "medium"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 1251, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.231235300269, -7.91393353400537
+        ]
+      }, 
+      "properties" : {
+        "FID" : 1251, 
+        "kecamatan" : "LENDAH", 
+        "kabupaten" : "KULON PROGO", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.913933534, 
+        "lon" : 110.2312353, 
+        "kategori" : "medium"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 1462, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.168856100029, -7.68177970097236
+        ]
+      }, 
+      "properties" : {
+        "FID" : 1462, 
+        "kecamatan" : "SAMIGALUH", 
+        "kabupaten" : "KULON PROGO", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.681779701, 
+        "lon" : 110.1688561, 
+        "kategori" : "medium"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 1481, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.509949999793, -8.07735176037539
+        ]
+      }, 
+      "properties" : {
+        "FID" : 1481, 
+        "kecamatan" : "SAPTOSARI", 
+        "kabupaten" : "GUNUNGKIDUL", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -8.07735176, 
+        "lon" : 110.50995, 
+        "kategori" : "medium"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 1797, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.131841299636, -7.89073828364485
+        ]
+      }, 
+      "properties" : {
+        "FID" : 1797, 
+        "kecamatan" : "WATES", 
+        "kabupaten" : "KULON PROGO", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.890738284, 
+        "lon" : 110.1318413, 
+        "kategori" : "medium"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 1845, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.593687399854, -7.82902820778554
+        ]
+      }, 
+      "properties" : {
+        "FID" : 1845, 
+        "kecamatan" : "GEDANGSARI", 
+        "kabupaten" : "GUNUNGKIDUL", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.829028208, 
+        "lon" : 110.5936874, 
+        "kategori" : "medium"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 1853, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.232239199979, -7.68703384973236
+        ]
+      }, 
+      "properties" : {
+        "FID" : 1853, 
+        "kecamatan" : "KALIBAWANG", 
+        "kabupaten" : "KULON PROGO", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.68703385, 
+        "lon" : 110.2322392, 
+        "kategori" : "medium"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 1964, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.287231000211, -7.87043884667537
+        ]
+      }, 
+      "properties" : {
+        "FID" : 1964, 
+        "kecamatan" : "PAJANGAN", 
+        "kabupaten" : "BANTUL", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.870438847, 
+        "lon" : 110.287231, 
+        "kategori" : "medium"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 2474, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.375465100434, -7.79995924412378
+        ]
+      }, 
+      "properties" : {
+        "FID" : 2474, 
+        "kecamatan" : "PAKUALAMAN", 
+        "kabupaten" : "KOTA YOGYAKARTA", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.799959244, 
+        "lon" : 110.3754651, 
+        "kategori" : "medium"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 2485, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.30030399963, -7.7265640808676
+        ]
+      }, 
+      "properties" : {
+        "FID" : 2485, 
+        "kecamatan" : "SEYEGAN", 
+        "kabupaten" : "SLEMAN", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.726564081, 
+        "lon" : 110.300304, 
+        "kategori" : "medium"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 2490, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.742832200046, -7.8620611608938
+        ]
+      }, 
+      "properties" : {
+        "FID" : 2490, 
+        "kecamatan" : "SEMIN", 
+        "kabupaten" : "GUNUNGKIDUL", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.862061161, 
+        "lon" : 110.7428322, 
+        "kategori" : "medium"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 2505, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.529805499924, -8.01345033526474
+        ]
+      }, 
+      "properties" : {
+        "FID" : 2505, 
+        "kecamatan" : "PALIYAN", 
+        "kabupaten" : "GUNUNGKIDUL", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -8.013450335, 
+        "lon" : 110.5298055, 
+        "kategori" : "medium"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 2513, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.458507699571, -7.92056532273142
+        ]
+      }, 
+      "properties" : {
+        "FID" : 2513, 
+        "kecamatan" : "DLINGO", 
+        "kabupaten" : "BANTUL", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.920565323, 
+        "lon" : 110.4585077, 
+        "kategori" : "medium"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 2655, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.248533300272, -7.73175340559516
+        ]
+      }, 
+      "properties" : {
+        "FID" : 2655, 
+        "kecamatan" : "MINGGIR", 
+        "kabupaten" : "SLEMAN", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.731753406, 
+        "lon" : 110.2485333, 
+        "kategori" : "medium"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 2656, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.381927199681, -7.6278004582245
+        ]
+      }, 
+      "properties" : {
+        "FID" : 2656, 
+        "kecamatan" : "TURI", 
+        "kabupaten" : "SLEMAN", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.627800458, 
+        "lon" : 110.3819272, 
+        "kategori" : "medium"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4421, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.155486999725, -7.91750778695473
+        ]
+      }, 
+      "properties" : {
+        "FID" : 4421, 
+        "kecamatan" : "PANJATAN", 
+        "kabupaten" : "KULON PROGO", 
+        "provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+        "lat" : -7.917507787, 
+        "lon" : 110.155487, 
+        "kategori" : "low"
+      }
+    }
+  ]
+}

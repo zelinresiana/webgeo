@@ -1,0 +1,213 @@
+{
+  "type" : "FeatureCollection", 
+  "features" : [
+    {
+      "type" : "Feature", 
+      "id" : 17, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.415046, -7.82098699999999
+        ]
+      }, 
+      "properties" : {
+        "Nama" : "Balai Teknik Kesehatan Lingkungan dan Pengendalian Penyakit DIY", 
+        "Provinsi" : "DI Yogyakarta", 
+        "Alamat" : "Jl. Imogiri Tim. No.Km. 7,5, Grojogan, Wirokerten, Kec. Banguntapan, Bantul, Daerah Istimewa Yogyakarta", 
+        "Telepon" : "(0274) 371588", 
+        "Jumlah_Tenaga_Medis" : null, 
+        "Jumlah_APD" : null, 
+        "Ruang_Isolasi_Biasa" : null, 
+        "Ruang_Isolasi_Tekanan" : null, 
+        "Ruang_Isolasi_ICU" : null, 
+        "Keterangan" : "Laboratorium Pemeriksaan", 
+        "X" : 110.415046, 
+        "Y" : -7.820987, 
+        "ObjectId" : 17
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 86, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.373448, -7.768594
+        ]
+      }, 
+      "properties" : {
+        "Nama" : "RSU Dr. Sardjito", 
+        "Provinsi" : "DI Yogyakarta", 
+        "Alamat" : "Jl. Kesehatan 1 Sekip Sinduadi Mlati, Selman, Yogjakarta", 
+        "Telepon" : "(0274) 631190 , 587333", 
+        "Jumlah_Tenaga_Medis" : null, 
+        "Jumlah_APD" : null, 
+        "Ruang_Isolasi_Biasa" : null, 
+        "Ruang_Isolasi_Tekanan" : null, 
+        "Ruang_Isolasi_ICU" : null, 
+        "Keterangan" : "RS Rujukan Kemenkes", 
+        "X" : 110.373448, 
+        "Y" : -7.768594, 
+        "ObjectId" : 86
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 87, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.338105, -7.89280500000002
+        ]
+      }, 
+      "properties" : {
+        "Nama" : "RSU Panembahan Senopati Bantul", 
+        "Provinsi" : "DI Yogyakarta", 
+        "Alamat" : "Jl. Dr. Wahidin SH Bantul", 
+        "Telepon" : "(0274) 367381 , 367386 , 367508", 
+        "Jumlah_Tenaga_Medis" : null, 
+        "Jumlah_APD" : null, 
+        "Ruang_Isolasi_Biasa" : null, 
+        "Ruang_Isolasi_Tekanan" : null, 
+        "Ruang_Isolasi_ICU" : null, 
+        "Keterangan" : "RS Rujukan Kemenkes", 
+        "X" : 110.338105, 
+        "Y" : -7.892805, 
+        "ObjectId" : 87
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 88, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.378005, -7.82580700000001
+        ]
+      }, 
+      "properties" : {
+        "Nama" : "RSUD Kota Yogyakarta", 
+        "Provinsi" : "DI Yogyakarta", 
+        "Alamat" : "Jl. Wirosaban No.1 Yogyakarta, DIY 55162", 
+        "Telepon" : "(0274) 371195 , 386691 , 386692", 
+        "Jumlah_Tenaga_Medis" : null, 
+        "Jumlah_APD" : null, 
+        "Ruang_Isolasi_Biasa" : null, 
+        "Ruang_Isolasi_Tekanan" : null, 
+        "Ruang_Isolasi_ICU" : null, 
+        "Keterangan" : "RS Rujukan Kemenkes", 
+        "X" : 110.378005, 
+        "Y" : -7.825807, 
+        "ObjectId" : 88
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 89, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.147942, -7.858827
+        ]
+      }, 
+      "properties" : {
+        "Nama" : "RSUD Wates", 
+        "Provinsi" : "DI Yogyakarta", 
+        "Alamat" : "Jl Tentara Pelajar Km.1 No.5 Wates Kulon Progo", 
+        "Telepon" : "(0274) 773169", 
+        "Jumlah_Tenaga_Medis" : null, 
+        "Jumlah_APD" : null, 
+        "Ruang_Isolasi_Biasa" : null, 
+        "Ruang_Isolasi_Tekanan" : null, 
+        "Ruang_Isolasi_ICU" : null, 
+        "Keterangan" : "RS Rujukan Kemenkes", 
+        "X" : 110.147942, 
+        "Y" : -7.858827, 
+        "ObjectId" : 89
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 239, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.47177, -7.766183
+        ]
+      }, 
+      "properties" : {
+        "Nama" : "Tk.III Yogyakarta", 
+        "Provinsi" : "DI Yogyakarta", 
+        "Alamat" : "Jalan Raya Yogya - Solo KM 14, Glondong, Tirtomartani, Kec. Kalasan, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55571", 
+        "Telepon" : "(0274) 498278", 
+        "Jumlah_Tenaga_Medis" : null, 
+        "Jumlah_APD" : null, 
+        "Ruang_Isolasi_Biasa" : "1", 
+        "Ruang_Isolasi_Tekanan" : null, 
+        "Ruang_Isolasi_ICU" : null, 
+        "Keterangan" : "RS Rujukan Polri", 
+        "X" : 110.47177, 
+        "Y" : -7.766183, 
+        "ObjectId" : 239
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 353, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.376825, -7.785556
+        ]
+      }, 
+      "properties" : {
+        "Nama" : "Rumkit Tk. III/Yogyakarta", 
+        "Provinsi" : "DI Yogyakarta", 
+        "Alamat" : "Jl. Juadi No.19, Kotabaru, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55224", 
+        "Telepon" : "(0274) 2920000", 
+        "Jumlah_Tenaga_Medis" : null, 
+        "Jumlah_APD" : null, 
+        "Ruang_Isolasi_Biasa" : null, 
+        "Ruang_Isolasi_Tekanan" : null, 
+        "Ruang_Isolasi_ICU" : null, 
+        "Keterangan" : "RS Rujukan TNI", 
+        "X" : 110.376825, 
+        "Y" : -7.785556, 
+        "ObjectId" : 353
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 354, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          110.410193, -7.797376
+        ]
+      }, 
+      "properties" : {
+        "Nama" : "RSPAU-1 Dr. S. HARDJOLUKITO", 
+        "Provinsi" : "DI Yogyakarta", 
+        "Alamat" : "JL. Janti Yogyakarta, Lanud Adisutjipto, Jl. Ringroad Timur, Karang Janbe, Banguntapan, Kec. Banguntapan, Bantul, Daerah Istimewa Yogyakarta 55198", 
+        "Telepon" : "(0274) 444702", 
+        "Jumlah_Tenaga_Medis" : null, 
+        "Jumlah_APD" : null, 
+        "Ruang_Isolasi_Biasa" : null, 
+        "Ruang_Isolasi_Tekanan" : null, 
+        "Ruang_Isolasi_ICU" : null, 
+        "Keterangan" : "RS Rujukan TNI", 
+        "X" : 110.410193, 
+        "Y" : -7.797376, 
+        "ObjectId" : 354
+      }
+    }
+  ]
+}
